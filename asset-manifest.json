@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontend-deploy-repo-RhysDevalckeneer/static/css/main.e6c13ad2.css",
+    "main.js": "/frontend-deploy-repo-RhysDevalckeneer/static/js/main.b130cc5d.js",
+    "static/js/787.88032701.chunk.js": "/frontend-deploy-repo-RhysDevalckeneer/static/js/787.88032701.chunk.js",
+    "index.html": "/frontend-deploy-repo-RhysDevalckeneer/index.html",
+    "main.e6c13ad2.css.map": "/frontend-deploy-repo-RhysDevalckeneer/static/css/main.e6c13ad2.css.map",
+    "main.b130cc5d.js.map": "/frontend-deploy-repo-RhysDevalckeneer/static/js/main.b130cc5d.js.map",
+    "787.88032701.chunk.js.map": "/frontend-deploy-repo-RhysDevalckeneer/static/js/787.88032701.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b130cc5d.js"
+  ]
+}
